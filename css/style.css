@@ -140,7 +140,7 @@ header {
     display: block;
 } 
 
-@media screen  and (min-width:772px)){
+@media screen  and (min-width:772px){
 
     div{
         width: 45%;
